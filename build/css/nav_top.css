@@ -1,0 +1,4 @@
+.nav--top__items > li {
+  display: inline-block;
+  vertical-align: top;
+}
